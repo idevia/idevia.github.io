@@ -1,23 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>iDevia</title>
-    <style>.red {color:red}</style>
+    <title>iDevia- Place to be more creative</title>
+    <link rel="stylesheet" href="./assets/css/main.css">
+    <style>
+        .red {
+            color: red
+        }
+    </style>
 </head>
+
 <body>
+    <!--#hero-->
     <div id="hero">
-        <nav id="topNav">
-            <div class="wrapper">
-                <div class="logo">
-                    <img src="./assets/img/logo.svg" alt="iDevia">
-                    <h1 class="hidden">iDevia</h1>
-                </div>
-                
+        <!--.wrapper-->
+        <div class="wrapper full-height">
+            <!--#topNav-->
+            <nav id="topNav">
+                <img src="./assets/img/logo.svg" alt="iDevia" class="logo">
+                <h1 class="hidden">iDevia</h1>
+
                 <div class="nav-toggle"></div>
-                
+                <div class="flex-spacer"></div>
                 <div class="nav-links">
                     <ul>
                         <li><a href="#">Home</a></li>
@@ -26,13 +34,26 @@
                         <li><a href="#">Contact</a></li>
                         <li><a href="#">Career</a></li>
                     </ul>
+                </div><!--/.nav-links-->
+            </nav><!--/#topNav-->
+
+            <div class="columns full-height">
+                <div class="column-4 full-height">
+                    <h2>Teamwork is <br> the foundation <br> for <span class="text-accent">any solution</span></h2>
+                    <p class="mb-5">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Provident sint tempora aperiam numquam similique veniam, ex quidem nobis sed assumenda aut aliquam perspiciatis ipsam optio itaque repellendus, sit rem minus.</p>
+                    <a href="/about" class="btn btn-rounded btn-accent">Read more</a>
+                </div>
+                <div class="column-8 full-height">
+                    <!-- <h2>Teamwork is the foundation for <span>any solution</span></h2> -->
                 </div>
             </div>
-        </nav>
-    </div>
+        </div><!--/.wrapper-->
+
+    </div><!--/#hero---->
 
 
     <script src="./libs/iquery.js"></script>
     <script src="./assets/js/app.js"></script>
 </body>
+
 </html>
