@@ -338,6 +338,7 @@ template {
 body {
   font-family: 'Poppins', sans-serif;
   font-size: 14px;
+  background: #ffffff;
 }
 
 .wrapper {
@@ -364,13 +365,14 @@ img {
 p {
   line-height: 2;
   color: #575757;
+  font-size: 1.1rem;
 }
 
 .mb-5 {
   margin-bottom: 3rem;
 }
 
-a {
+.btn {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   position: relative;
@@ -390,17 +392,47 @@ a {
   margin: 0;
   min-width: 88px;
   line-height: 36px;
-  padding: 0 16px;
+  padding: 2px 20px;
   border-radius: 50px;
-  color: #ffffff;
-  background-color: #319bff;
   overflow: visible;
+  -webkit-box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+          box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
   -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0);
   -webkit-transition: background 0.4s cubic-bezier(0.25, 0.8, 0.25, 1), -webkit-box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1);
   transition: background 0.4s cubic-bezier(0.25, 0.8, 0.25, 1), -webkit-box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1);
   transition: background 0.4s cubic-bezier(0.25, 0.8, 0.25, 1), box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1);
   transition: background 0.4s cubic-bezier(0.25, 0.8, 0.25, 1), box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1), -webkit-box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-accent {
+  color: #ffffff;
+  background-color: #319bff;
+}
+
+.section {
+  padding: 6rem 0;
+}
+
+.background-image {
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.heading {
+  font-size: 5rem;
+  color: #2e1447;
+  margin-bottom: 0.5rem;
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.hightlight {
+  font-weight: bold;
+  margin: 1rem 0;
+  color: #2e1447;
 }
 
 #topNav {
@@ -429,6 +461,10 @@ a {
           flex-grow: 1;
 }
 
+.nav-links {
+  margin-right: -2rem;
+}
+
 .nav-links ul {
   list-style-type: none;
 }
@@ -442,6 +478,7 @@ a {
   padding: 0.25rem 2rem;
   color: #fafafa;
   background-color: transparent;
+  font-size: 16px;
 }
 
 #hero {
@@ -480,5 +517,36 @@ a {
   -webkit-box-flex: 8;
       -ms-flex-positive: 8;
           flex-grow: 8;
+}
+
+.column {
+  -ms-flex-preferred-size: 50%;
+      flex-basis: 50%;
+}
+
+#what-we-do .background-image {
+  background-position: 50% -150%;
+}
+
+#what-we-do .mh-400 {
+  min-height: 500px;
+}
+
+#why-us {
+  position: relative;
+}
+
+#why-us svg {
+  position: absolute;
+  top: 0px;
+  z-index: -1;
+}
+
+#why-us .service {
+  padding: 1.5rem;
+}
+
+#why-us .service img {
+  height: 80px;
 }
 /*# sourceMappingURL=main.css.map */
