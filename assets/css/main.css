@@ -372,6 +372,14 @@ p {
   margin-bottom: 3rem;
 }
 
+.mt-5 {
+  margin-top: 3rem;
+}
+
+.mr-3 {
+  margin-right: 2rem;
+}
+
 .btn {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -389,10 +397,9 @@ p {
   text-decoration: none;
   vertical-align: baseline;
   text-align: center;
-  margin: 0;
   min-width: 88px;
   line-height: 36px;
-  padding: 2px 20px;
+  padding: 2px 40px;
   border-radius: 50px;
   overflow: visible;
   -webkit-box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
@@ -410,6 +417,23 @@ p {
   background-color: #319bff;
 }
 
+.btn-success {
+  color: #ffffff;
+  background-color: #80c536;
+}
+
+.display-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.justify-content-center {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
 .section {
   padding: 6rem 0;
 }
@@ -420,7 +444,7 @@ p {
 }
 
 .heading {
-  font-size: 5rem;
+  font-size: 3rem;
   color: #2e1447;
   margin-bottom: 0.5rem;
 }
@@ -433,6 +457,24 @@ p {
   font-weight: bold;
   margin: 1rem 0;
   color: #2e1447;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.list-unstyled {
+  list-style-type: none;
+}
+
+.align-self-center {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
 }
 
 #topNav {
@@ -538,7 +580,7 @@ p {
 
 #why-us svg {
   position: absolute;
-  top: 0px;
+  top: -100px;
   z-index: -1;
 }
 
@@ -548,5 +590,48 @@ p {
 
 #why-us .service img {
   height: 80px;
+}
+
+#more {
+  position: relative;
+}
+
+#more svg {
+  position: absolute;
+  bottom: 0;
+  z-index: -1;
+  left: 0;
+  right: 0;
+}
+
+#footer {
+  background-color: #f6f9fc;
+}
+
+#footer ul {
+  padding: 0;
+}
+
+#footer ul li {
+  margin-bottom: 10px;
+  font-size: 0.9rem;
+}
+
+#footer ul li a {
+  color: #2e1447;
+  text-decoration: none;
+}
+
+.footer-heading {
+  color: #2e1447;
+  font-weight: 500;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.bottom-logo {
+  max-width: 250px;
+  margin-top: -100px;
 }
 /*# sourceMappingURL=main.css.map */
