@@ -523,6 +523,10 @@ p {
   font-size: 16px;
 }
 
+#about-hero .nav-links ul li a {
+  color: #2e1447;
+}
+
 #hero {
   background: url("../img/pattern1.svg");
   background-repeat: no-repeat;
@@ -599,6 +603,65 @@ p {
 #more svg {
   position: absolute;
   bottom: 0;
+  z-index: -1;
+  left: 0;
+  right: 0;
+}
+
+#about-hero {
+  position: relative;
+  min-height: 100vh;
+}
+
+#about-hero p {
+  line-height: 1;
+}
+
+#about-hero .content {
+  min-height: 600px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#about-hero .content .lead {
+  color: #2e1447;
+  font-size: 1.2rem;
+}
+
+#about-hero .content p {
+  font-weight: 400;
+}
+
+#about-hero .hero-img {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  right: 50px;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  max-width: 600px;
+  z-index: -1;
+}
+
+#about-info {
+  position: relative;
+}
+
+#about-info .column {
+  text-align: center;
+}
+
+#about-info .column img {
+  width: 50px;
+}
+
+#about-info svg {
+  position: absolute;
+  top: -200px;
   z-index: -1;
   left: 0;
   right: 0;
