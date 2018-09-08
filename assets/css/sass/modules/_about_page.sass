@@ -1,27 +1,28 @@
-#about-hero
-    position: relative
-    min-height: 100vh
-    p
-        line-height: 1
-    .content
-        min-height: 600px
-        display: flex
-        align-items: center
-        // flex-direction: column
-        .lead
-            color: $primary
-            font-size: 1.2rem
-        p
-            font-weight: 400
-    .hero-img
-        position: absolute
-        top: 50%
-        width: 100%
-        right: 50px
-        transform: translateY(-50%)
-        max-width: 600px
-        z-index: -1
-
+// #about-hero
+//     position: relative
+//     min-height: 100vh
+//     p
+//         line-height: 1
+//     .content
+//         min-height: 600px
+//         display: flex
+//         align-items: center
+//         // flex-direction: column
+//         .lead
+//             color: $primary
+//             font-size: 1.2rem
+//         p
+//             font-weight: 400
+//     .hero-img
+//         position: absolute
+//         top: 50%
+//         width: 100%
+//         right: 50px
+//         transform: translateY(-50%)
+//         max-width: 600px
+//         z-index: -1
+.mb-5rem
+    margin-bottom: 5rem
 #about-info
     position: relative
     .column
@@ -30,8 +31,16 @@
             width: 50px
     svg
         position: absolute
-        top: -200px
+        // top: -100px
         z-index: -1
         left: 0
         right: 0
-    
+        bottom: 0px
+#about-desc
+    .lead
+        font-size: 1.2rem
+        font-weight: bold
+        margin-bottom: 0.1rem
+    .column
+        p
+            margin-top: 0.1rem
