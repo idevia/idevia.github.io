@@ -532,6 +532,21 @@ p {
   min-height: 100vh;
 }
 
+#hero.careers-page svg {
+  height: 800px;
+}
+
+#hero svg {
+  position: absolute;
+  top: 0;
+  z-index: -1;
+  right: 0;
+}
+
+#hero .lead {
+  line-height: 2;
+}
+
 #hero p {
   line-height: 1;
 }
@@ -717,6 +732,10 @@ p {
 
 #services .item img {
   width: 75px;
+}
+
+#hero.careers-page svg {
+  height: 800px;
 }
 
 #footer {
