@@ -1,9 +1,7 @@
 .column
     flex-basis: 50%
 
-#what-we-do
-    .background-image
-        background-position: 50% -150%
+#who-are-we
     .mh-400
         min-height: 500px
 
@@ -15,6 +13,7 @@
         z-index: -1
     .service
         padding: 1.5rem
+        max-width: 300px
         img
             height: 80px
 
@@ -26,3 +25,35 @@
         z-index: -1
         left: 0
         right: 0
+.img-container
+    position: relative
+    svg
+        position: absolute
+        max-width: 600px
+
+@media (max-width: 1650px)
+    #why-us
+        svg
+            height: 50vw
+            left: 0
+@media (max-width: 1587px)
+    #why-us
+        svg
+            top: -50px
+
+@media (max-width: 1390px)
+    #why-us
+        svg
+            height: 60vw
+            top: -20px
+@media (max-width: 1215px)
+    #who-are-we
+        svg
+            position: relative
+    .columns
+        flex-direction: column
+        
+    #why-us
+        svg
+            height: 120%
+            top: -196px

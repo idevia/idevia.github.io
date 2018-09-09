@@ -1,11 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700,900')
-
+// html,
 body
-  font-family: 'Poppins', sans-serif
+  width: 100%
   font-size: 14px
-  background: #ffffff
   overflow-x: hidden
-
+  font-family: 'Poppins', sans-serif
+  background: #ffffff
+  position: relative
+  &.open-nav
+    height: 100%
+    overflow: hidden
 .wrapper
   width: 90%
   margin: auto
@@ -69,6 +73,7 @@ p
 
 .section
   padding: 6rem 0
+  overflow: hidden
 
 .background-image
   background-repeat: no-repeat

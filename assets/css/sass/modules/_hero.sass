@@ -35,15 +35,18 @@
         max-width: 600px
         z-index: -1
 #hero-home
-  background: url('../img/pattern1.svg')
-  background-repeat: no-repeat
-  background-position: 125% 0%
-  // background-size: cover
   min-height: 100vh
+  svg
+    position: absolute
+    top: 0
+    right: 0
+    z-index: -1
+    height: 50vw
   h2
     font-size: 5rem
     color: $primary
     margin-bottom: 0.5rem
+    max-width: 650px;
   p
     line-height: 2
     color: $dark
@@ -55,3 +58,30 @@
   flex-basis: 20%
 .column-8
   flex-grow: 8
+
+@media (max-width: 1650px)
+  #hero-home
+    
+    h2
+      font-size: 5vw
+@media (max-width: 1587px)
+  #home-hero
+    svg
+      height: 55vw
+@media (max-width: 1215px)
+  #hero-home
+    .columns
+      justify-content: center
+      max-width: 600px
+      margin: auto
+    .column
+      flex-basis: 100%
+    svg
+      top: -323px
+      height: 72vw
+
+@media (max-width: 1080px)
+  #hero-home
+    svg
+      // top: -250px
+      // height: 70vw
