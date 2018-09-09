@@ -1,5 +1,5 @@
 .column
-    flex-basis: 50%
+    // flex-basis: 50%
 
 #who-are-we
     .mh-400
@@ -46,14 +46,46 @@
         svg
             height: 60vw
             top: -20px
+        
 @media (max-width: 1215px)
     #who-are-we
         svg
             position: relative
-    .columns
-        flex-direction: column
         
     #why-us
         svg
             height: 120%
             top: -196px
+#why-us
+    .column
+        flex-basis: 25%
+        width: 25%
+
+@media (max-width: 1080px)
+    #why-us
+        .column
+            flex-basis: 50%
+            width: 50%
+
+@media (max-width: 749px)
+    #why-us
+        .column
+            flex-basis: 100%
+            width: 100%
+
+#who-are-we
+    .column
+        flex-basis: 50%
+        width: 4%
+
+@media (max-width: 1080px)
+    #who-are-we
+        .column
+            flex-basis: 100%
+            width: 100%
+
+// @media (max-width: 749px)
+//     #who-are-we
+//         .column
+//             flex-basis: 100%
+//             width: 100%
