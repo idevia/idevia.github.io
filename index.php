@@ -16,34 +16,8 @@
     <div id="hero-home">
         <!--.wrapper-->
         <div class="wrapper full-height">
-            <!--#topNav-->
-            <nav id="topNav">
-                <img src="./assets/img/logo.svg" alt="iDevia" class="logo">
-                <h1 class="hidden">iDevia</h1>
-
-                <div class="flex-spacer"></div>
-                <div class="nav-links">
-                    <ul>
-                        <div class="menu-header mob">Menu</div>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="about">About</a></li>
-                        <li><a href="/services">Services</a></li>
-                        <li><a href="/contact">Contact</a></li>
-                        <li><a href="/careers">Career</a></li>
-                    </ul>
-                </div><!--/.nav-links-->
-
-                <div class="hamburger-menu" id="hamburger">
-                    <div class="hamburger-inner">
-                        <div class="hamburger-line"></div>
-                        <div class="hamburger-line"></div>
-                        <div class="hamburger-line"></div>
-                    </div>
-                </div>
-
-            </nav><!--/#topNav-->
-
-            <div class="backdrop"></div>
+            
+            <?php include 'inc/navigation.php' ?>
 
             <div class="columns full-height">
                 <div class="column full-height">
@@ -55,6 +29,7 @@
                 </div> -->
             </div>
         </div><!--/.wrapper-->
+
         <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1034.16 930"><defs><style>.hero-bg{fill:url(#linear-gradient);}</style><linearGradient id="linear-gradient" x1="399.84" y1="526" x2="1434" y2="526" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="0" stop-color="#9dcfff"/><stop offset="0" stop-color="#55adff"/><stop offset="0" stop-color="#399fff"/><stop offset="1" stop-color="#0c36bc"/></linearGradient></defs><path class="hero-bg" d="M1434,61H496L418.87,280.2c-61.23,174,30.21,364.74,204.24,426L1432.67,991H1434Z" transform="translate(-399.84 -61)"/></svg>
     </div><!--/#hero-home-->
 
@@ -158,101 +133,41 @@
         </svg>
     </section><!--/#more-->
 
-    <footer id="footer">
-        <div class="wrapper">
-            <div class="columns">
-                <div class="column">
-                    <h5 class="footer-heading">Applications</h5>
-                    <ul class="list-unstyled">
-                        <li>PHP</li>
-                        <li>Angular</li>
-                        <li>React</li>
-                        <li>React Native</li>
-                        <li>Electron</li>
-                        <li>Node.js</li>
-                        <li>Vue.js</li>
-                        <li>MEAN Stack</li>
-                        <li>NativeScript</li>
-                    </ul>
-                </div>
+<?php include 'inc/footer.php'; ?>
+<?php include 'inc/scripts.php' ?>
 
-                <div class="column">
-                    <h5 class="footer-heading">Services</h5>
-                    <ul class="list-unstyled">
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/about">About</a></li>
-                        <li><a href="/services">Services</a></li>
-                        <li><a href="/contact">Contact us</a></li>
-                        <li><a href="/career">Career</a></li>
-                    </ul>
-                </div>
-
-                <div class="column">
-                    <h5 class="footer-heading">Contact</h5>
-                    <ul class="list-unstyled">
-                        <li>Bangalore</li>
-                        <li>India</li>
-                        <li><a href="tel:919791107278">+91 979 110 7278</a></li>
-                        <li><a href="tel:875957638">+91 875 956 7638</a></li>
-                        <li><a href="mailto:team@idevia.in">team@idevia.in</a></li>
-                    </ul>
-                </div>
-                <div class="column">
-                    <h5 class="footer-heading">Social</h5>
-                    <ul class="list-unstyled">
-                        <li><a href="#">Facebook</a></li>
-                        <li><a href="#">Linkedin</a></li>
-                        <li><a href="#">Twitter</a></li>
-                        <li><a href="#">Dribbble</a></li>
-                        <li><a href="#">Github</a></li>
-                        <li><a href="#">Behance</a></li>
-                        <li><a href="#">Instagram</a></li>
-                    </ul>
-                </div>
-                <div class="column align-self-center">
-                    <img src="./assets/img/logobot.svg" alt="iDevia logo" class="bottom-logo">
-                </div>
-            </div>
-        </div>
-    </footer>
-
-
-    <!-- <script src="./libs/iquery.js"></script> -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="./libs/owl-carousel/js/owl.carousel.min.js"></script>
-    <script src="./assets/js/app.js"></script>
-    <script>
-        $(document).ready(function () {
-            $(".owl-carousel").owlCarousel({
-                autoplay: true,
-                loop: true,
-                margin: 10,
-                responsiveClass: true,
-                responsive: {
-                    0: {
-                        items: 1,
-                    },
-                    320: {
-                        items: 1
-                    },
-                    480: {
-                        items: 2
-                    },
-                    552: {
-                        items: 4
-                    },
-                    768: {
-                        items: 5,
-                        margin: 20
-                    },
-                    // 1000: {
-                    //   items: 4,
-                    //   margin: 20
-                    // }
-                }
-            });
+<script>
+    $(document).ready(function () {
+        $(".owl-carousel").owlCarousel({
+            autoplay: true,
+            loop: true,
+            margin: 10,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 1,
+                },
+                320: {
+                    items: 1
+                },
+                480: {
+                    items: 2
+                },
+                552: {
+                    items: 4
+                },
+                768: {
+                    items: 5,
+                    margin: 20
+                },
+                // 1000: {
+                //   items: 4,
+                //   margin: 20
+                // }
+            }
         });
-    </script>
+    });
+</script>
 </body>
 
 </html>

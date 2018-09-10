@@ -14,25 +14,8 @@
   <div id="hero" class="mb-5 services-page">
     <!--.wrapper-->
     <div class="wrapper full-height">
-      <!--#topNav-->
-      <nav id="topNav">
-        <img src="./assets/img/logo.svg" alt="iDevia" class="logo">
-        <h1 class="hidden">iDevia</h1>
-
-        <div class="nav-toggle"></div>
-        <div class="flex-spacer"></div>
-        <div class="nav-links">
-          <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Contact</a></li>
-            <li><a href="#">Career</a></li>
-          </ul>
-        </div>
-        <!--/.nav-links-->
-      </nav>
-      <!--/#topNav-->
+      
+    <?php include 'inc/navigation.php'; ?>
 
       <div class="content">
         <div class="text-content">
@@ -128,68 +111,9 @@
   </section>
   <!--/#more-->
 
-  <footer id="footer">
-    <div class="wrapper">
-      <div class="columns">
-        <div class="column">
-          <h5 class="footer-heading">Services</h5>
-          <ul class="list-unstyled">
-            <li>PHP</li>
-            <li>SLim PHP</li>
-            <li>Angular</li>
-            <li>React</li>
-            <li>React Native</li>
-            <li>Electron</li>
-            <li>Node.js</li>
-            <li>Vue.js</li>
-            <li>MEAN Stack</li>
-            <li>NativeScript</li>
-          </ul>
-        </div>
+<?php include 'inc/footer.php'; ?>
+<?php include 'inc/scripts.php'; ?>
 
-        <div class="column">
-          <h5 class="footer-heading">Services</h5>
-          <ul class="list-unstyled">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Career</a></li>
-            <li><a href="#">Contact us</a></li>
-            <li><a href="#">Services</a></li>
-          </ul>
-        </div>
-
-        <div class="column">
-          <h5 class="footer-heading">Contact</h5>
-          <ul class="list-unstyled">
-            <li>Bangalore</li>
-            <li>India</li>
-            <li><a href="tel:919791107278">+91 979 110 7278</a></li>
-            <li><a href="tel:875957638">+91 875 956 7638</a></li>
-            <li><a href="mailto:team@idevia.in">team@idevia.in</a></li>
-          </ul>
-        </div>
-        <div class="column">
-          <h5 class="footer-heading">Social</h5>
-          <ul class="list-unstyled">
-            <li><a href="#">Facebook</a></li>
-            <li><a href="#">Linkedin</a></li>
-            <li><a href="#">Twitter</a></li>
-            <li><a href="#">Dribbble</a></li>
-            <li><a href="#">Github</a></li>
-            <li><a href="#">Behance</a></li>
-            <li><a href="#">Instagram</a></li>
-          </ul>
-        </div>
-        <div class="column align-self-center">
-          <img src="./assets/img/logobot.svg" alt="iDevia logo" class="bottom-logo">
-        </div>
-      </div>
-    </div>
-  </footer>
-
-
-  <script src="./libs/iquery.js"></script>
-  <script src="./assets/js/app.js"></script>
 </body>
 
 </html>
