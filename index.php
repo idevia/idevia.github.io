@@ -46,7 +46,7 @@
                 </div>
                 <div class="column">
                     <h2 class="heading">Who are we?</h2>
-                    <p class="mh-400">We build applications that generate revenue using the latest in web and mobile technologies. Our approach is different than most, because we take the time to learn your business inside-and-out before we make a single technology choice.<br>
+                    <p class="mh-400">iDevia is a digital agency which provide services to companies and other agnecies. We build applications that generate revenue using the latest in web and mobile technologies. Our approach is different than most, because we take the time to learn your business inside-and-out before we make a single technology choice.<br>
 The end product you're looking for may be an Android app, iPhone app, a revamped company website, or a new web application, but we know any technology is just a means for making your business more intelligent, more efficient and ultimately more profitable.
 <br>A core strength is our engineering prowess. Looking to build a powerful analytics platform, transform billions of datapoints, or build the next billion dollar technology? Good. We are too.
 <br>Designing software isn't like adding a coat of paint. Well-built software thinks about users and their needs. We engrain our user behavior analysis and human interaction into every project.
