@@ -106,7 +106,7 @@ The end product you're looking for may be an Android app, iPhone app, a revamped
 
     <section id="clients" class="section">
         <div class="wrapper">
-            <h2 class="heading text-right">People that trust us</h2>
+            <h2 class="heading text-center">People that trust us</h2>
         </div>
 
         <div class="carousel-wrapper">
