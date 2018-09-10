@@ -1,10 +1,10 @@
 #contact-form
     padding: 1rem 2rem
-    width: 100%
-    max-width: 400px
-    margin-right: auto
+    width: 400px
+    // margin-right: auto
     @media (max-width: 1080px)
         margin-left: auto
+        margin-right: auto
     .input-group
         margin-bottom: 1.5rem
 
@@ -59,3 +59,14 @@
     .address-column
         @media (max-width: 640px)
             flex-direction: column
+@media (max-width: 825px)
+    .col
+        flex-basis: 100%
+        width: 100%
+    .address-container
+        display: flex
+        flex-direction: row
+@media (max-width: 655px)
+    .address-container
+        display: flex
+        flex-direction: column

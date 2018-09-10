@@ -39,7 +39,7 @@
         Contact us today and see why hundreds of public companies rely on Equisolve.</p>
     </div>
 
-    <div class="columns">
+    <!-- <div class="columns">
       <div class="column address-column">
 
         <div class="address">
@@ -85,7 +85,53 @@
 
         </form>
       </div>
-    </div>
+    </div> -->
+
+    <div class="columns justify-content-center">
+      <div class="address-container col">
+        <div class="address">
+
+          <h3 class="highlight">Bangalore office</h3>
+          <p>#717, Ground Floor, <br>
+            24th cross, 1st Stage, <br>
+            Kumaraswamy Layout <br>
+            Bangalore - 560 078
+          </div><!--/.address-->
+
+        <div class="address">
+        
+          <h3 class="highlight">West Bengal office</h3>
+          <p>Saradapally, <br>
+            English Bazar, <br>
+            Malda <br>
+            West Bengal - 732 101
+        </div><!--/.address-->
+      </div><!--/.address-container-->
+      <div class="form-container col">
+        <form action="#" id="contact-form" autocomplete="off">
+
+          <div class="input-group">
+            <label for="name">Name</label><input type="text" class="input-field" name="name" id="name">
+          </div>
+
+          <div class="input-group">
+            <label for="email">Email</label><input type="email" class="input-field" name="email" id="email">
+          </div>
+
+          <div class="input-group">
+            <label for="phone">Phone</label><input type="text" class="input-field" name="phone" id="phone">
+          </div>
+
+          <div class="input-group">
+            <label for="message">Message</label>
+            <textarea rows="6" class="input-field" name="message" id="message"></textarea>
+          </div>
+
+          <input type="submit" value="Send" class="btn btn-submit btn-accent">
+
+        </form>
+      </div>
+    </div><!--/.columns-->
 
     <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 438">
       <polygon fill="#f6f9fc" points="1920 0 0 313.71 0 438 1920 438 1920 0" />
