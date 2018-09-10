@@ -21,7 +21,7 @@
 
             <div class="columns full-height">
                 <div class="column full-height">
-                    <h2>Teamwork is the foundation for <span class="text-accent">any solution</span></h2>
+                    <h2>We create digital <span class="text-accent">products</span> and <span class="text-accent">services</span></h2>
                     <p class="mb-5">We deliver smart next - generation solutions using advance technologies that combine excellence in design, quality and service. We use web design and online strategy to help brands get things done in the digital world.</p>
                     <a href="about" class="btn btn-rounded btn-accent">Read more</a>
                 </div>
@@ -46,7 +46,7 @@
                 </div>
                 <div class="column">
                     <h2 class="heading">Who are we?</h2>
-                    <p class="mh-400">We build applications that generate revenue using the latest in web and mobile technologies. Our approach is different than most, because we take the time to learn your business inside-and-out before we make a single technology choice.<br>
+                    <p class="mh-400">We are a digital agency building applications that generate revenue using the latest in web and mobile technologies. Our approach is different than most, because we take the time to learn your business inside-and-out before we make a single technology choice.<br>
 The end product you're looking for may be an Android app, iPhone app, a revamped company website, or a new web application, but we know any technology is just a means for making your business more intelligent, more efficient and ultimately more profitable.
 <br>A core strength is our engineering prowess. Looking to build a powerful analytics platform, transform billions of datapoints, or build the next billion dollar technology? Good. We are too.
 <br>Designing software isn't like adding a coat of paint. Well-built software thinks about users and their needs. We engrain our user behavior analysis and human interaction into every project.
