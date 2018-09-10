@@ -20,10 +20,10 @@
                     <h5 class="footer-heading">Services</h5>
                     <ul class="list-unstyled">
                         <li><a href="/">Home</a></li>
-                        <li><a href="/about">About</a></li>
-                        <li><a href="/services">Services</a></li>
-                        <li><a href="/contact">Contact us</a></li>
-                        <li><a href="/career">Career</a></li>
+                        <li><a href="about">About</a></li>
+                        <li><a href="services">Services</a></li>
+                        <li><a href="contact">Contact us</a></li>
+                        <li><a href="career">Career</a></li>
                     </ul>
                 </div>
 
@@ -40,13 +40,13 @@
                 <div class="column">
                     <h5 class="footer-heading">Social</h5>
                     <ul class="list-unstyled">
-                        <li><a href="https://www.facebook.com/idevia.in">Facebook</a></li>
-                        <li><a href="https://www.linkedin.com/company-beta/13455584">Linkedin</a></li>
-                        <li><a href="https://twitter.com/idevia_in">Twitter</a></li>
-                        <li><a href="https://dribbble.com/idevia">Dribbble</a></li>
-                        <li><a href="https://github.com/idevia">Github</a></li>
-                        <li><a href="https://www.behance.net/iDevia">Behance</a></li>
-                        <li><a href="https://www.instagram.com/idevia_connect/">Instagram</a></li>
+                        <li><a href="https://www.facebook.com/idevia.in" target="_blank">Facebook</a></li>
+                        <li><a href="https://www.linkedin.com/company-beta/13455584" target="_blank">Linkedin</a></li>
+                        <li><a href="https://twitter.com/idevia_in" target="_blank">Twitter</a></li>
+                        <li><a href="https://dribbble.com/idevia" target="_blank">Dribbble</a></li>
+                        <li><a href="https://github.com/idevia" target="_blank">Github</a></li>
+                        <li><a href="https://www.behance.net/iDevia" target="_blank">Behance</a></li>
+                        <li><a href="https://www.instagram.com/idevia_connect/" target="_blank">Instagram</a></li>
                     </ul>
                 </div>
                 <div class="column align-self-center">

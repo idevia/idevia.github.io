@@ -125,8 +125,8 @@
         </div>
 
         <div class="wrapper display-flex justify-content-center mt-5">
-            <a href="#" class="btn btn-accent mr-3">Contact</a>
-            <a href="#" class="btn btn-success">Services</a>
+            <a href="contact" class="btn btn-accent mr-3">Contact</a>
+            <a href="services" class="btn btn-success">Services</a>
         </div>
         <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 438">
             <polygon fill="#f6f9fc" points="1920 0 0 313.71 0 438 1920 438 1920 0" />
