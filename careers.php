@@ -34,10 +34,13 @@
   <!--/#hero---->
 
   <section id="services" class="section">
-    <div class="wrapper text-center">
+    <div class="wrapper">
+    <div class="text-center">
       <h2 class="heading">Perks & Benifits</h2>
       <p>We are passionate designers, developers, thinkers, problem solvers and technologiests <br>
       with a shared desire to push our field forward and make the web better</p>
+    </div>
+      
 
       <div class="columns mt-5">
 
@@ -53,7 +56,7 @@
           <div class="item">
             <img src="./assets/img/careers/careericons-03.svg" alt="sleepig on desk">
             <h5 class="highlight">Casual workspace</h5>
-            <p>No politics, no ridiculous reporting. <br>
+            <p>No politics, no ridiculous reporting.
               We look for self-sufficient people
               who work hard and laugh harder.
             </p>
@@ -81,7 +84,7 @@
           <div class="item">
             <img src="./assets/img/careers/careericons-05.svg" alt="desktop">
             <h5 class="highlight">Vacation time</h5>
-            <p>Take off time whenever you want, no limit. <br>
+            <p>Take off time whenever you want, no limit.
             We trust our employees to use their best judgement and get their work done.</p>
           </div>
         </div>
