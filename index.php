@@ -22,8 +22,8 @@
             <div class="columns full-height">
                 <div class="column full-height">
                     <h2>Teamwork is the foundation for <span class="text-accent">any solution</span></h2>
-                    <p class="mb-5">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Provident sint tempora aperiam numquam similique veniam, ex quidem nobis sed assumenda aut aliquam perspiciatis ipsam optio itaque repellendus, sit rem minus.</p>
-                    <a href="/about" class="btn btn-rounded btn-accent">Read more</a>
+                    <p class="mb-5">We deliver smart next - generation solutions using advance technologies that combine excellence in design, quality and service. We use web design and online strategy to help brands get things done in the digital world.</p>
+                    <a href="about" class="btn btn-rounded btn-accent">Read more</a>
                 </div>
                 <!-- <div class="column-8 full-height">
                 </div> -->
@@ -106,13 +106,21 @@
 
         <div class="carousel-wrapper">
             <div class="owl-carousel">
-                <div> Your Content </div>
-                <div> Your Content </div>
-                <div> Your Content </div>
-                <div> Your Content </div>
-                <div> Your Content </div>
-                <div> Your Content </div>
-                <div> Your Content </div>
+                <div> <img src="./assets/img/clients/fidiyo.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/hie.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/triibe.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/royal.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/fci.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/reeshs.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/dbs.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/kadambari.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/nawzil.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/rv.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/wisefool.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/delta.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/universal.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/dreamgateways.png" alt=""> </div>
+                
             </div>
         </div>
     </section>
