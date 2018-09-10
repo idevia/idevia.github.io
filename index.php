@@ -21,7 +21,7 @@
 
             <div class="columns full-height">
                 <div class="column full-height">
-                    <h2>Teamwork is the foundation for <span class="text-accent">any solution</span></h2>
+                    <h2>We create digital <span class="text-accent">products</span> and <span class="text-accent">services</span></h2>
                     <p class="mb-5">We deliver smart next - generation solutions using advance technologies that combine excellence in design, quality and service. We use web design and online strategy to help brands get things done in the digital world.</p>
                     <a href="about" class="btn btn-rounded btn-accent">Read more</a>
                 </div>
