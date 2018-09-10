@@ -1,5 +1,13 @@
 .mb-5rem
     margin-bottom: 5rem
+#hero
+    &.about-page
+        @media (max-width: 1080px)
+            .hero-img
+                top: 33%
+                right: 50%
+                transform: translate(50%, -50%)
+                max-width: 408px
 #about-info
     position: relative
     p
@@ -15,11 +23,17 @@
             width: 50px
     svg
         position: absolute
-        // top: -100px
         z-index: -1
-        left: 0
+        // left: 0
         right: 0
-        bottom: 0px
+        bottom: 0
+        top: 0
+        @media (max-width: 1215px)
+            height: 650px
+        @media (max-width: 994px)
+            height: 800px
+        @media (max-width: 600px)
+            height: 1250px
 #about-desc
     .lead
         font-size: 1.2rem
