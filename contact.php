@@ -95,7 +95,9 @@
           <p>#717, Ground Floor, <br>
             24th cross, 1st Stage, <br>
             Kumaraswamy Layout <br>
-            Bangalore - 560 078
+            Bangalore - 560 078 <br>
+            +91 979 110 7278 <br>
+            team@idevia.in
           </div><!--/.address-->
 
         <div class="address">
@@ -104,7 +106,9 @@
           <p>Saradapally, <br>
             English Bazar, <br>
             Malda <br>
-            West Bengal - 732 101
+            West Bengal - 732 101 <br>
+            +91 875 956 7638 <br>
+            team@idevia.in
         </div><!--/.address-->
       </div><!--/.address-container-->
       <div class="form-container col">
