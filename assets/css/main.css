@@ -963,9 +963,24 @@ body.open-nav .hamburger-menu .hamburger-line:nth-child(3) {
   margin-right: auto;
 }
 
-#clients .owl-carousel {
+#clients .carousel-wrapper .owl-carousel {
   margin-top: 4rem;
   text-align: center;
+}
+
+#clients .carousel-wrapper .owl-carousel .owl-item img {
+  display: block;
+  width: 100%;
+  max-width: 150px;
+  -webkit-filter: grayscale(100%);
+          filter: grayscale(100%);
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+#clients .carousel-wrapper .owl-carousel .owl-item:hover img {
+  -webkit-filter: grayscale(0%);
+          filter: grayscale(0%);
 }
 
 #hero-home .hamburger-menu .hamburger-inner .hamburger-line {
@@ -1017,18 +1032,27 @@ body.open-nav #hero-home .hamburger-menu .hamburger-inner .hamburger-line {
   z-index: -1;
   right: 0;
   bottom: 0;
-  top: 0;
+  top: -100px;
+}
+
+@media (max-width: 1450px) {
+  #about-info svg {
+    height: 680px;
+    top: -50px;
+  }
 }
 
 @media (max-width: 1215px) {
   #about-info svg {
     height: 650px;
+    top: -50px;
   }
 }
 
 @media (max-width: 994px) {
   #about-info svg {
-    height: 800px;
+    height: 750px;
+    top: 0;
   }
 }
 

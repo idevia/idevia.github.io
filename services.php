@@ -34,9 +34,12 @@
   <!--/#hero---->
 
   <section id="services" class="section">
-    <div class="wrapper text-center">
-      <h2 class="heading">What we do</h2>
-      <p>Our team writes powerful and beautiful Native and web applications from front-end to backend</p>
+    <div class="wrapper">
+      <div class="text-center">
+        <h2 class="heading">What we do</h2>
+        <p>Our team writes powerful and beautiful Native and web applications from front-end to backend</p>
+      </div>
+      
 
       <div class="columns mt-5">
 

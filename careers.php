@@ -60,9 +60,7 @@
           </div>
         </div>
 
-      </div>
 
-      <div class="columns">
         <div class="column">
           <div class="item">
             <img src="./assets/img/careers/careericons-02.svg" alt="marker">
@@ -78,9 +76,7 @@
             <p>Life happens, we get it. Don't worry about PTO when picking up a sick child or getting a flat tire.</p>
           </div>
         </div>
-      </div>
 
-      <div class="columns">
         <div class="column">
           <div class="item">
             <img src="./assets/img/careers/careericons-05.svg" alt="desktop">
@@ -112,7 +108,7 @@
     </div>
 
     <div class="wrapper display-flex justify-content-center mt-5">
-      <a href="#" class="btn btn-accent">Contact</a>
+      <a href="contact" class="btn btn-accent">Contact</a>
     </div>
     <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 438">
       <polygon fill="#f6f9fc" points="1920 0 0 313.71 0 438 1920 438 1920 0" />

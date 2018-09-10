@@ -113,16 +113,16 @@ The end product you're looking for may be an Android app, iPhone app, a revamped
             <div class="owl-carousel">
                 <div> <img src="./assets/img/clients/fidiyo.png" alt=""> </div>
                 <div> <img src="./assets/img/clients/hie.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/fci.png" alt=""> </div>
                 <div> <img src="./assets/img/clients/triibe.png" alt=""> </div>
                 <div> <img src="./assets/img/clients/royal.png" alt=""> </div>
-                <div> <img src="./assets/img/clients/fci.png" alt=""> </div>
                 <div> <img src="./assets/img/clients/reeshs.png" alt=""> </div>
                 <div> <img src="./assets/img/clients/dbs.png" alt=""> </div>
                 <div> <img src="./assets/img/clients/kadambari.png" alt=""> </div>
                 <div> <img src="./assets/img/clients/nawzil.png" alt=""> </div>
-                <div> <img src="./assets/img/clients/rv.png" alt=""> </div>
                 <div> <img src="./assets/img/clients/wisefool.png" alt=""> </div>
                 <div> <img src="./assets/img/clients/delta.png" alt=""> </div>
+                <div> <img src="./assets/img/clients/rv.png" alt=""> </div>
                 <div> <img src="./assets/img/clients/universal.png" alt=""> </div>
                 <div> <img src="./assets/img/clients/dreamgateways.png" alt=""> </div>
                 
@@ -164,19 +164,21 @@ The end product you're looking for may be an Android app, iPhone app, a revamped
                     items: 1
                 },
                 480: {
-                    items: 2
+                    items: 2,
+                    margin: 10
                 },
                 552: {
-                    items: 4
+                    items: 4,
+                    margin: 10
                 },
                 768: {
                     items: 5,
                     margin: 20
                 },
-                // 1000: {
-                //   items: 4,
-                //   margin: 20
-                // }
+                1000: {
+                  items: 4,
+                  margin: 50
+                }
             }
         });
     });
