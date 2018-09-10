@@ -46,7 +46,12 @@
                 </div>
                 <div class="column">
                     <h2 class="heading">Who are we?</h2>
-                    <p class="mh-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi ut iste officiis? Mollitia laborum eos inventore doloribus totam, ab quia aliquam harum, sit accusamus ipsum! Ratione dolorem et, expedita aspernatur veritatis, distinctio impedit voluptatum quisquam rerum maiores ipsum omnis fugiat aperiam temporibus nihil tempora! Ipsa iure enim eius. Tenetur, facilis assumenda deleniti sit veniam alias. Maiores quos voluptate distinctio deserunt perferendis dolorem odio non repellendus? Eum non delectus voluptas repellat aliquid minima in unde. Ab deleniti eaque possimus corrupti ipsam impedit voluptate rem cupiditate necessitatibus laborum quibusdam numquam cum hic officiis provident, commodi beatae. Dolor eveniet quo exercitationem facilis ullam.</p>
+                    <p class="mh-400">We build applications that generate revenue using the latest in web and mobile technologies. Our approach is different than most, because we take the time to learn your business inside-and-out before we make a single technology choice.<br>
+The end product you're looking for may be an Android app, iPhone app, a revamped company website, or a new web application, but we know any technology is just a means for making your business more intelligent, more efficient and ultimately more profitable.
+<br>A core strength is our engineering prowess. Looking to build a powerful analytics platform, transform billions of datapoints, or build the next billion dollar technology? Good. We are too.
+<br>Designing software isn't like adding a coat of paint. Well-built software thinks about users and their needs. We engrain our user behavior analysis and human interaction into every project.
+
+</p>
                 </div>
             </div>
         </div><!--/.wrapper-->
