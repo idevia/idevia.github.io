@@ -18,7 +18,7 @@
         min-height: 600px
         display: flex
         align-items: center
-        // flex-direction: column
+        
         .lead
             color: $primary
             font-size: 1.2rem
@@ -37,12 +37,30 @@
         z-index: -1
 #hero-home
   min-height: 100vh
+  position: relative
   svg
     position: absolute
     top: 0
     right: 0
     z-index: -1
     height: 50vw
+  .hero-img
+    position: absolute
+    top: 35%
+    width: 100%
+    transform: translateY(-50%)
+    right: 5%
+    max-width: 630px
+    z-index: -1
+    padding-left: 20px
+    padding-right: 20px
+    @media (max-width: 1450px)
+      max-width: 440px
+    @media (max-width: 1080px)
+      top: 30%
+      right: 50%
+      transform: translate(50%, -50%)
+      max-width: 520px
   h2
     font-size: 5rem
     color: $primary
@@ -52,9 +70,6 @@
     line-height: 2
     color: $dark
     max-width: 700px
-  .column
-    flex-basis: 50%
-    width: 50%
 
 @media (max-width: 1650px)
   #hero-home
@@ -67,12 +82,6 @@
       height: 55vw
 @media (max-width: 1215px)
   #hero-home
-    .columns
-      justify-content: center
-      max-width: 600px
-      margin: auto
-    .column
-      flex-basis: 100%
     svg
       top: -125px
 
