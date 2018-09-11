@@ -15,4 +15,4 @@
 <meta property="business:contact_data:country_name" content="India">
 
 <meta name="title" content="iDevia - Place to be more creative">
-<meta name="description" content="We deliver smart next - generation solutions using advance technologies that combine excellence in design, quality and service. We use web design and online strategy to help brands get things done in the digital world.">
+<meta name="description" content="We deliver smart next-generation solutions using advance technologies that combine excellence in design, quality and service. We use web design and online strategy to help brands get things done in the digital world.">
