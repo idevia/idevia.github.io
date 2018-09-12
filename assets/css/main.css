@@ -800,12 +800,12 @@ body.open-nav .hamburger-menu .hamburger-line:nth-child(3) {
 
 #hero-home .hero-img {
   position: absolute;
-  top: 35%;
+  top: 45%;
   width: 100%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   right: 5%;
-  max-width: 630px;
+  max-width: 720px;
   z-index: -1;
   padding-left: 20px;
   padding-right: 20px;
