@@ -26,6 +26,8 @@
         </div>
       </div>
     </div>
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1034.38 1067">
+      <path fill="#f6f9fc" d="M903,7,474.89,480.89c-40.79,45.15-26,116.93,29.27,142.32L1486,1074V7Z" transform="translate(-451.62 -7)" /></svg>
     <!--/.wrapper-->
     <img class="hero-img" src="./assets/img/about/aboutvector.svg" alt="working people">
   </div>
@@ -109,7 +111,7 @@
   <!--#more-->
   <section id="more" class="section position-relative">
     <div class="wrapper">
-      <h2 class="heading text-center">so What are you waiting for?</h2>
+      <h2 class="heading text-center">What are you waiting for?</h2>
       <p class="text-center">Contact Us now one of our representatives will talk with you soon</p>
     </div>
 

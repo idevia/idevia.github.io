@@ -134,7 +134,7 @@ The end product you're looking for may be an Android app, iPhone app, a revamped
     <!--#more-->
     <section id="more" class="section position-relative">
         <div class="wrapper">
-            <h2 class="heading text-center">so What are you waiting for?</h2>
+            <h2 class="heading text-center">What are you waiting for?</h2>
             <p class="text-center">Contact Us now one of our representatives will talk with you soon</p>
         </div>
 
