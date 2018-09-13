@@ -554,13 +554,9 @@ p {
 .nav-links ul li a {
   text-decoration: none;
   padding: 0.25rem 2rem;
-  color: #fafafa;
+  color: #2e1447;
   background-color: transparent;
   font-size: 16px;
-}
-
-#about-hero .nav-links ul li a {
-  color: #2e1447;
 }
 
 .menu-header {
@@ -1168,13 +1164,13 @@ body.open-nav #hero-home .hamburger-menu .hamburger-inner .hamburger-line {
   }
 }
 
-#hero.services-page img {
+#hero.services-page .hero-img {
   right: 10%;
   max-width: 500px;
 }
 
 @media (max-width: 1080px) {
-  #hero.services-page img {
+  #hero.services-page .hero-img {
     top: 15%;
     right: 50%;
     max-width: 350px;
@@ -1245,7 +1241,7 @@ body.open-nav #hero-home .hamburger-menu .hamburger-inner .hamburger-line {
 
 @media (max-width: 1080px) {
   #hero.careers-page .hero-img {
-    top: 28%;
+    top: 32%;
     right: 50%;
     -webkit-transform: translate(50%, -50%);
             transform: translate(50%, -50%);
