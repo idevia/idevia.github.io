@@ -1023,10 +1023,6 @@ body.open-nav .hamburger-menu .hamburger-line:nth-child(3) {
           filter: grayscale(0%);
 }
 
-#hero-home .hamburger-menu .hamburger-inner .hamburger-line {
-  background-color: #f7f7f7;
-}
-
 body.open-nav #hero-home .hamburger-menu .hamburger-inner .hamburger-line {
   background-color: #000000;
 }
