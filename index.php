@@ -28,7 +28,7 @@
                 </div>
             </div>
 
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1034.16 930"><defs><style>.hero-bg{fill:url(#linear-gradient);}</style><linearGradient id="linear-gradient" x1="399.84" y1="526" x2="1434" y2="526" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="0" stop-color="#9dcfff"/><stop offset="0" stop-color="#55adff"/><stop offset="0" stop-color="#399fff"/><stop offset="1" stop-color="#0c36bc"/></linearGradient></defs><path class="hero-bg" d="M1434,61H496L418.87,280.2c-61.23,174,30.21,364.74,204.24,426L1432.67,991H1434Z" transform="translate(-399.84 -61)"/></svg>
+            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1034.16 930"><defs><style>.hero-bg{fill:#f6f9fc;}</style><linearGradient id="linear-gradient" x1="399.84" y1="526" x2="1434" y2="526" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="0" stop-color="#9dcfff"/><stop offset="0" stop-color="#55adff"/><stop offset="0" stop-color="#399fff"/><stop offset="1" stop-color="#0c36bc"/></linearGradient></defs><path class="hero-bg" d="M1434,61H496L418.87,280.2c-61.23,174,30.21,364.74,204.24,426L1432.67,991H1434Z" transform="translate(-399.84 -61)"/></svg>
 
             <img src="./assets/img/home/homesvg.svg" alt="Working svg" class="hero-img">
         </div><!--/.wrapper-->
