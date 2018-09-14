@@ -14,7 +14,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="iDevia - Place to be more creative" />
 <meta property="og:description" content="We deliver smart next-generation solutions using advance technologies that combine excellence in design, quality and service. We use web design and online strategy to help brands get things done in the digital world." />
-<meta property="og:image" content="https://idevia.in/assets/img/logoartb.png">
+<meta property="og:image" content="http://idevia.in/assets/img/logoartb.png">
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@idevia_in" />
 <meta name="twitter:creator" content="@idevia_in" />
