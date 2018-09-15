@@ -62,7 +62,7 @@
       </div>
 
       <div class="column">
-        <form action="http://mail.idevia.in/u/ba4f75c41d7f9bbf" method="post" id="contact-form" autocomplete="off">
+        <form ction="http://mail.idevia.in/u/ba4f75c41d7f9bbf" method="post"  id="contact-form" autocomplete="off">
 
           <div class="input-group">
             <label for="name">Name</label><input type="text" class="input-field" name="name" id="name">
@@ -112,7 +112,7 @@
         </div><!--/.address-->
       </div><!--/.address-container-->
       <div class="form-container col">
-        <form action="#" id="contact-form" autocomplete="off">
+        <form action="http://mail.idevia.in/u/ba4f75c41d7f9bbf" method="post" id="contact-form" autocomplete="off">
 
           <div class="input-group">
             <label for="name">Name</label><input type="text" class="input-field" name="name" id="name">
