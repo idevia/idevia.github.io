@@ -49,7 +49,7 @@
           <div class="item">
             <img src="./assets/img/careers/careericons-01.svg" alt="desktop">
             <h5 class="highlight">A+ team</h5>
-            <p>Work with a team that know what they're doing and pulls their own weight.</p>
+            <p>Work with a team that knows what it is doing and pulls it's own weight.</p>
           </div>
         </div>
 
@@ -69,7 +69,7 @@
           <div class="item">
             <img src="./assets/img/careers/careericons-02.svg" alt="marker">
             <h5 class="highlight">Work on-site or remote</h5>
-            <p>We believe in hiring the nbest talent, regardless of location.</p>
+            <p>We believe in hiring the best talent, regardless of location.</p>
           </div>
         </div>
         
@@ -108,7 +108,7 @@
   <!--#more-->
   <section id="more" class="section position-relative">
     <div class="wrapper">
-      <p class="text-center">We're interested in hiring and retaining the best talent available. If you're at the top of <br> you game and looking for an opportunity, contact us and let's see what we can work out.</p>
+      <p class="text-center">We're interested in hiring and retaining the best talent available. If you're at the top of <br> your game and looking for an opportunity, contact us and let's see what we can work out.</p>
     </div>
 
     <div class="wrapper display-flex justify-content-center mt-5">

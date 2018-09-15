@@ -38,7 +38,7 @@
     <div class="wrapper">
       <div class="text-center">
         <h2 class="heading">What we do</h2>
-        <p>Our team writes powerful and beautiful Native and web applications from front-end to backend</p>
+        <p>Our team writes powerful and beautiful Native and web applications from front-end to back-end</p>
       </div>
       
 
