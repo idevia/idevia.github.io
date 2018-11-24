@@ -1,11 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+    $title = 'Contact Us | idevia | idevia.in';
 
+    $keywords = 'Contact Us';
+
+    $description = 'Idevia is the place for creative people. Do you want to know more information
+about web design, development and digital marketing services? Contact to team Idevia
+via Email team@idevia.in or Call us +919791107278.';
+?>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>iDevia- Place to be more creative</title>
+  <?php include 'inc/meta-tags.php'; ?>
   <link rel="stylesheet" href="./assets/css/main.css">
 </head>
 
