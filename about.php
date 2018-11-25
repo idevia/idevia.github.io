@@ -31,10 +31,12 @@
     <!--/.wrapper-->
     <img class="hero-img" src="./assets/img/about/aboutvector.svg" alt="working people">
   </div>
-  <!--/#hero---->
+  <!--/#hero-->
 
   <!--#about-info-->
   <section class="section mt-5" id="about-info">
+    
+    <h2 class="hidden" hidden>About iDevia</h2>
     <div class="wrapper">
       <p class="text-center mb-5rem">We are iDevia, where ideas come to life. Creative ideas that deliver tangible returns. We
         deliver smart next-generation solutions using advance technologies that combine excellence in design, quality and service. We use
@@ -78,6 +80,7 @@
   </section><!--/#about-info-->
 
   <section class="section mb-5" id="about-desc">
+    <h2 class="hidden" hidden>Description</h2>
     <div class="wrapper">
       <p class="text-center">iDevia prides itself on using the most advanced technology spread across data centers in the countries <br>
         to provide unmatched levels of speed, security, redundancy, scalability and compliance.
