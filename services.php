@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+    $title = 'Web Design Company in Bangalore | SEO services Bangalore | idevia.in';
 
+    $keywords = 'web Design Company in bangalore, SEO services Bangalore, cms developer bangalore';
+
+    $description = 'Idevia is one of the top web Design Company in Bangalore, that believes to provide a unique SEO services in Bangalore and promote your business in a well manner. Welcome to our cms website Development Company in Bangalore with having a great team of experienced and professional CMS developer which design your favorite cms as per your requirements.';
+?>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">

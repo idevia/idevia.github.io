@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+    $title = 'career | idevia | idevia.in';
 
+    $keywords = 'career';
+
+    $description = 'Idevia is one of the unique platform for web design, development and digital
+marketing. We are hiring superheroes to develop awesomeness and make a bright
+future in the career. Send us email on : CAREERS@iDEVIA.IN.';
+?>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">

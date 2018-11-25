@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+    $title = 'About Us | idevia | idevia.in';
 
+    $keywords = 'about us';
+
+    $description = 'Idevia is one of the leading out web design, development, and digital marketing company in Bangalore, India. If you want to know more information about us, then welcome to our platform now.';
+?>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">

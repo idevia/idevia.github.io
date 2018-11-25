@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+    $title = 'Web Design and Development Company in Bangalore | It Service Provider Bangalore, | software company in Bangalore | idevia.in';
 
+    $keywords = 'Web design and development company in bangalore, It service provider bangalore, software company in bangalore, ui and ux design company bangalore, PHP website developer bangalore, angularjs development company in bangalore, cms development company in bangalore, SEO Services bangalore';
+
+    $description = 'Idevia is one of the best Web design and development company in Bangalore, which helps you the people to design and  develop your business via online platform. With the help of us, you can get the top Engine Optimization Services Bangalore and known as Digital Marketing company Bangalore. For more details, visit the website and get the complete services today.';
+?>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

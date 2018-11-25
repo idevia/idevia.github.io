@@ -6,9 +6,9 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 
-<meta name="title" content="iDevia - Place to be more creative">
-<meta name="description" content="We are iDevia, where ideas come to life. Creative ideas that deliver tangible returns. We deliver smart next - generation solutions using advance technologies that combine excellence in design, quality and service. We use web design and online strategy to help brands get things done in the digital world.">
-<meta name="keywords" content="web design, web application, ux/ui design, wordpress, ecommerce, graphic design, seo services, app development, digital marketing, content writing, angular, native script, electron, node js, php, slim framework, android, ios, desktop">
+<meta name="title" content="<?php echo $title; ?>">
+<meta name="keywords" content="<?php echo $keywords; ?>">
+<meta name="description" content="<?php echo $description; ?>">
 <meta name="author" content="iDevia">
 <meta property="og:url" content="http://idevia.in/" />
 <meta property="og:type" content="website" />
