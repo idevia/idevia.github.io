@@ -45,7 +45,7 @@ via Email team@idevia.in or Call us +919791107278.';
   <section id="more" class="section position-relative">
     <div class="wrapper mb-5">
       <p class="text-center">Ready to make your life easier and enjoy a digital presence that inspires confidence? <br>
-        Contact us today and see why hundreds of public companies rely on Equisolve.</p>
+        Contact us today and see why hundreds of public companies rely on iDevia.</p>
     </div>
 
     <!-- <div class="columns">
