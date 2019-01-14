@@ -121,7 +121,7 @@ via Email team@idevia.in or Call us +919791107278.';
         </div><!--/.address-->
       </div><!--/.address-container-->
       <div class="form-container col">
-        <form action="http://mail.idevia.in/u/ba4f75c41d7f9bbf" method="post" id="contact-form" autocomplete="off">
+        <form action="https://formeasy.app/u/23fcb8a88111833Z" method="post" id="contact-form" autocomplete="off">
 
           <div class="input-group">
             <label for="name">Name</label><input type="text" class="input-field" name="name" id="name">
